@@ -45,3 +45,6 @@ yarn-error.log
 .flowconfig
 .gitattributes
 .watchmanconfig
+android/android.iml
+android/gradlew
+android/gradlew.bat
